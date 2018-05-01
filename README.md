@@ -9,7 +9,4 @@ Breakout with TI HDC1080 Digital Humidity and Temperature Sensor.
 * Temperature accuracy: +/-0.2°C
 * TWI/I2C Interface (address: 0x40)
 * 3.3V - 5V Power Supply and Logic Level
-
-
-## Shop
-* [HDC1080-Breakout (+/-2% humidity accuracy)](http://www.watterott.com/en/HDC1080-Breakout)
+* **[Documentation on learn.watterott.com](http://learn.watterott.com/sensors/hdc1080/)**
